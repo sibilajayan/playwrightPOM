@@ -1,0 +1,33 @@
+[
+
+    {
+
+        "userName" : "standard_user",
+
+        "password" : "secret_sauce",
+
+        "productName1" : "Sauce Labs Backpack",
+
+        "productName2" : "Sauce Labs Bike Light",
+
+        "productName3" : "Sauce Labs Fleece Jacket",
+
+        "testName" : "valid cred"
+
+    },
+
+    {
+
+        "userName" : "standard_notuser",
+
+        "password" : "secret_sauce",
+
+        "testName" : "invalid cred"
+
+    }
+
+]
+
+
+
+
